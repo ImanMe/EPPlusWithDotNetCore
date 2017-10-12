@@ -12811,11 +12811,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "c:\\users\\imemarpour\\source\\repos\\ExportToExcelDemo\\ExportToExcelDemo\\ExportToExcelDemo.csproj",
+      "projectUniqueName": "C:\\Users\\imemarpour\\EPPlusWithDotNetCore\\ExportToExcelDemo\\ExportToExcelDemo.csproj",
       "projectName": "ExportToExcelDemo",
-      "projectPath": "c:\\users\\imemarpour\\source\\repos\\ExportToExcelDemo\\ExportToExcelDemo\\ExportToExcelDemo.csproj",
+      "projectPath": "C:\\Users\\imemarpour\\EPPlusWithDotNetCore\\ExportToExcelDemo\\ExportToExcelDemo.csproj",
       "packagesPath": "C:\\Users\\imemarpour\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\imemarpour\\source\\repos\\ExportToExcelDemo\\ExportToExcelDemo\\obj\\",
+      "outputPath": "C:\\Users\\imemarpour\\EPPlusWithDotNetCore\\ExportToExcelDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

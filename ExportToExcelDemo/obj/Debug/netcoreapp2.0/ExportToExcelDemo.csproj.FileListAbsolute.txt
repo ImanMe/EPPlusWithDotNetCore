@@ -9,3 +9,14 @@ c:\users\imemarpour\source\repos\ExportToExcelDemo\ExportToExcelDemo\obj\Debug\n
 c:\users\imemarpour\source\repos\ExportToExcelDemo\ExportToExcelDemo\bin\Debug\netcoreapp2.0\ExportToExcelDemo.pdb
 c:\users\imemarpour\source\repos\ExportToExcelDemo\ExportToExcelDemo\obj\Debug\netcoreapp2.0\ExportToExcelDemo.dll
 c:\users\imemarpour\source\repos\ExportToExcelDemo\ExportToExcelDemo\obj\Debug\netcoreapp2.0\ExportToExcelDemo.pdb
+C:\Users\imemarpour\EPPlusWithDotNetCore\ExportToExcelDemo\bin\Debug\netcoreapp2.0\ExportToExcelDemo.deps.json
+C:\Users\imemarpour\EPPlusWithDotNetCore\ExportToExcelDemo\bin\Debug\netcoreapp2.0\ExportToExcelDemo.runtimeconfig.json
+C:\Users\imemarpour\EPPlusWithDotNetCore\ExportToExcelDemo\bin\Debug\netcoreapp2.0\ExportToExcelDemo.runtimeconfig.dev.json
+C:\Users\imemarpour\EPPlusWithDotNetCore\ExportToExcelDemo\bin\Debug\netcoreapp2.0\ExportToExcelDemo.dll
+C:\Users\imemarpour\EPPlusWithDotNetCore\ExportToExcelDemo\bin\Debug\netcoreapp2.0\ExportToExcelDemo.pdb
+C:\Users\imemarpour\EPPlusWithDotNetCore\ExportToExcelDemo\obj\Debug\netcoreapp2.0\ExportToExcelDemo.csprojResolveAssemblyReference.cache
+C:\Users\imemarpour\EPPlusWithDotNetCore\ExportToExcelDemo\obj\Debug\netcoreapp2.0\ExportToExcelDemo.csproj.CoreCompileInputs.cache
+C:\Users\imemarpour\EPPlusWithDotNetCore\ExportToExcelDemo\obj\Debug\netcoreapp2.0\ExportToExcelDemo.AssemblyInfoInputs.cache
+C:\Users\imemarpour\EPPlusWithDotNetCore\ExportToExcelDemo\obj\Debug\netcoreapp2.0\ExportToExcelDemo.AssemblyInfo.cs
+C:\Users\imemarpour\EPPlusWithDotNetCore\ExportToExcelDemo\obj\Debug\netcoreapp2.0\ExportToExcelDemo.dll
+C:\Users\imemarpour\EPPlusWithDotNetCore\ExportToExcelDemo\obj\Debug\netcoreapp2.0\ExportToExcelDemo.pdb

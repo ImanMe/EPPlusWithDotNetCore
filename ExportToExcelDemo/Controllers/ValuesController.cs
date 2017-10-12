@@ -36,30 +36,37 @@ namespace ExportToExcelDemo.Controllers
             
             var worksheet = package.Workbook.Worksheets.Add(worksheetName);
 
-            var headerCount =1;
+            SetHeader<T>(worksheet);
+
+            SetBody(dataToBeExported, worksheet);            
+           
+            return package;
+        }
+
+        private static void SetHeader<T>(ExcelWorksheet worksheet)
+        {
+            var headerCount = 1;
 
             foreach (var header in typeof(T).GetProperties())
             {
                 worksheet.Cells[1, headerCount].Value = header.Name;
                 headerCount++;
             }
-                       
+        }
+
+        private static void SetBody<T>(IEnumerable<T> dataToBeExported, ExcelWorksheet worksheet)
+        {
             var rowCounter = 2;
 
             foreach (var v in dataToBeExported)
             {
                 var columnCount = 0;
                 foreach (var prop in v.GetType().GetProperties())
-                {                    
+                {
                     worksheet.Cells[rowCounter, ++columnCount].Value = prop.GetValue(v, null);
-                }                             
+                }
                 rowCounter++;
             }
-                                                
-            // AutoFitColumns
-            //worksheet.Cells[1, 1, 4, 4].AutoFitColumns();
-           
-            return package;
         }
     }
 }
